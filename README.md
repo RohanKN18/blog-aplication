@@ -28,4 +28,10 @@ A dynamic **Blog Application** built with **Node.js**, **Express**, and **MongoD
 
 ---
 
+## Reference images 
+Blog written by the author and loggined by the same author only get edit options
+![image](https://github.com/user-attachments/assets/ce857e9d-9fdd-4119-b5ba-e35ceb105f49)
+![image](https://github.com/user-attachments/assets/6a68899b-b97e-4f88-b199-0daae3aac3ce)
+![image](https://github.com/user-attachments/assets/7afee73a-95d8-4b65-8548-54c61b5feb44)
+
 
